@@ -128,9 +128,6 @@ IPTV5(轮播),http://175.150.159.235:9007/rtp/232.0.0.119:1234
 大洼综合,http://175.150.159.235:9007/rtp/232.0.0.146:1234
 辽河新闻综合,http://175.150.159.235:9007/rtp/232.0.0.214:1234
 辽河文化生活,http://175.150.159.235:9007/rtp/232.0.0.215:1234
-
-
-
 北京联通组播,#genre#
 CCTV-1,http://111.193.236.223:4022/rtp/239.3.1.129:8008
 CCTV-2,http://111.193.236.223:4022/rtp/239.3.1.60:8084
@@ -277,11 +274,6 @@ CETV4,http://111.193.236.223:4022/rtp/239.3.1.56:4120
 音乐现场,http://111.193.236.223:4022/rtp/239.3.1.70:4120
 高网,http://111.193.236.223:4022/rtp/239.3.1.88:4120
 魅力时尚,http://111.193.236.223:4022/rtp/239.3.1.196:9012
-
-
-
-
-
 山西联通组播,#genre#
 山西黄河HD,http://171.119.204.54:6001/rtp/226.0.2.235:9792
 山西经济与科技HD,http://171.119.204.54:6001/rtp/226.0.2.236:9800
@@ -464,9 +456,6 @@ CCTV风云剧场HD,http://171.119.204.54:6001/rtp/226.0.2.227:9728
 阳泉-1新闻综合,http://171.119.204.54:6001/rtp/226.0.2.233:9776
 阳泉-2科教,http://171.119.204.54:6001/rtp/226.0.2.234:9784
 CHC家庭影院,http://171.119.204.54:6001/rtp/226.0.2.240:9820
-
-
-
 1905电影频道,#genre#
 CCTV6,http://sd.kandstv.xyz/live.php?id=cctv6
 1905电影网,http://sd.kandstv.xyz/live.php?id=1905a
@@ -550,9 +539,6 @@ XR年鹏Enpi✔原,http://159.75.85.63:35455/douyu/5389181
 亮矜矜✔原,http://159.75.85.63:35455/douyu/11581516
 小岛ye✔原,http://159.75.85.63:35455/douyu/11772632
 小茉莉丶Molly✔原,http://159.75.85.63:35455/douyu/11428016
-
-
-
 YY影视,#genre#
 2024-05-27 11:51:13,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/time/time.mp4
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
@@ -1227,8 +1213,6 @@ X战警系列-国外科幻片,https://lunbo.freetv.top/yy/1382735585
 命中注定我爱你、王子变青蛙、放羊的星星,https://lunbo.freetv.top/yy/1354585252
 经典好看,https://lunbo.freetv.top/yy/1356337497
 3594麻瓜花式打王者,https://lunbo.freetv.top/yy/94542423
-
-
 斗鱼影视,#genre#
 2024-05-27 11:33:58,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/time/time.mp4
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
@@ -2310,9 +2294,6 @@ baby丶贝贝,https://www.goodiptv.club/douyu/431460
 苟或不是狗货,https://www.goodiptv.club/douyu/3811092
 齐如安希达,https://www.goodiptv.club/douyu/2535105
 动漫唯美風,https://www.goodiptv.club/douyu/8912038
-
-
-
 虎牙影视,#genre#
 2024-05-27 11:47:36,https://cdn.jsdelivr.net/gh/youshandefeiyang/testvideo/time/time.mp4
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
@@ -2970,9 +2951,6 @@ NCT127-悠太,https://www.goodiptv.club/huya/637219
 fromis9-JIWON,https://www.goodiptv.club/huya/691251
 小亮亮,https://www.goodiptv.club/huya/11342432
 我的朋友陈白露小姐,https://www.goodiptv.club/huya/11352917
-
-
-
 咪咕电影,#genre#
 惊奇队长2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/969/5105240969/media/5105240969_5229088474_56.mp4
 幸福来接龙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/188/5105277188/media/5105277188_5229127101_56.mp4
@@ -3191,7 +3169,6 @@ GT赛车：极速狂飙（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo
 ICU病房,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/792/5105046792/media/5105046792_5067192487_56.mp4
 珠峰队长,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/370/5105004370/media/5105004370_5035305020_56.mp4
 你是我的春天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/614/054/5103614054/media/5103614054_5023970915_56.mp4
-
 新电影,#genre#
 🔥月球叛军2：烙印之人,https://yzzy1.play-cdn20.com/20240419/40338_63fcf195/index.m3u8
 月球叛军：火之女,https://v.cdnlz11.com/20231222/18799_a3ec4c15/index.m3u8
