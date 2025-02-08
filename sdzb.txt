@@ -619,6 +619,7 @@ CHC家庭影院,http://211.90.89.35:8084/rtp/226.0.2.240:9820
 虎牙影视,#genre#
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+石狮新闻综合,http://live-new.chinashishi.net/SSTV/sd/live.m3u8
 周星星,http://xd.kandstv.xyz/hntv.php?id=11342412
 毁你男神做你男人,http://xd.kandstv.xyz/hntv.php?id=353798
 7喜先生,http://xd.kandstv.xyz/hntv.php?id=11342421
