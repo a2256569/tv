@@ -326,10 +326,8 @@ CCTV电视指南,http://218.9.247.146:4000/udp/229.58.190.191:5000
 CCTV英语新闻,http://218.9.247.146:4000/udp/229.58.190.138:5000
 
 吉林酒店源,#genre#
-吉林公共,http://175.18.189.238:9998/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林都市,http://175.18.189.238:9998/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林7频道,http://175.18.189.238:9998/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-东北戏曲,http://175.18.189.238:9998/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林影视,http://175.18.189.238:9998/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林生活,http://175.18.189.238:9998/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林乡村,http://175.18.189.238:9998/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
