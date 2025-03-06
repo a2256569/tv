@@ -593,8 +593,8 @@ iHOT频道,#genre#
 松视3,http://suo.im/9wiS2
 pigoo,http://s.mrw.so/7DlBI
 pigoo,http://s.mrw.so/7DlBI
-极限台,http://suo.im/aD7Ry
-极限台,http://suo.im/aD7Ry
+JStar極限台電影,http://suo.im/aD7Ry
+JStar極限台電影,http://suo.im/aD7Ry
 JUQ-743-月野ゆりね,https://surrit.com/bec2f64f-8043-4c65-9a16-40aedd3b84d2/playlist.m3u8
 JUQ-743-月野ゆりね,https://surrit.com/bec2f64f-8043-4c65-9a16-40aedd3b84d2/1080p/video.m3u8
 ROE-211-大石紗季,https://surrit.com/195b0d48-361f-42cc-9ede-2d01731a133e/playlist.m3u8
