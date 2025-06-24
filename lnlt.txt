@@ -28,7 +28,7 @@ CCTV 5+ 体育赛事频道,http://60.20.192.78:9901/tsfile/live/0018_1.m3u8?key=
 辽宁体育休闲,http://60.20.192.78:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁移动电视,http://60.20.192.78:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视,#genre#
-北京卫视,http://60.20.192.78:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://60.20.192.78:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://60.20.192.78:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://60.20.192.78:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://60.20.192.78:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
