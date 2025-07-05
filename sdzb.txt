@@ -336,7 +336,7 @@ CCTV2-财经,http://123.9.115.207:9901/tsfile/live/0002_1.m3u8?key=txiptv&playli
 CCTV3-综艺,http://123.9.115.207:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4-国际,http://123.9.115.207:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5,http://123.9.115.207:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+-体育,http://123.9.115.207:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5+体育,http://123.9.115.207:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6-电影,http://123.9.115.207:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7-军农,http://123.9.115.207:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV8-电视剧,http://123.9.115.207:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
