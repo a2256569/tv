@@ -353,8 +353,7 @@ CCTV4K超高清,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 武术世界,http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8
 
 虎牙影视,#genre#
-重温经典,http://mtw.so/5NPX0U
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://cdn6.946985.xyz/live/cwjd/stream.m3u8
 石狮新闻综合,http://live-new.chinashishi.net/SSTV/sd/live.m3u8
 周星星,http://kamiplayer.com:35455/huya/11342412
 毁你男神做你男人,http://kamiplayer.com:35455/huya/353798
