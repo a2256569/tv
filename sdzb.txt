@@ -225,32 +225,32 @@ CHC影迷电影,http://182.32.204.243:1921/tsfile/live/1005_1.m3u8?key=txiptv&pl
 CCTV1-综合,http://182.32.204.243:1921/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://182.32.204.243:1921/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://182.32.204.243:1921/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4 高清,http://182.32.204.243:1921/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-中文国际,http://182.32.204.243:1921/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5-体育,http://182.32.204.243:1921/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+-体育赛事,http://182.32.204.243:1921/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6-电影,http://182.32.204.243:1921/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7-军农 高清,http://182.32.204.243:1921/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://182.32.204.243:1921/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9-记录,http://182.32.204.243:1921/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10 高清,http://182.32.204.243:1921/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11戏典高清,http://182.32.204.243:1921/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12 高清,http://182.32.204.243:1921/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://182.32.204.243:1921/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏典,http://182.32.204.243:1921/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://182.32.204.243:1921/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://182.32.204.243:1921/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14 高清,http://182.32.204.243:1921/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐 高清,http://182.32.204.243:1921/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://182.32.204.243:1921/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://182.32.204.243:1921/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16-奥林匹克,http://182.32.204.243:1921/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17-农业农村,http://182.32.204.243:1921/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视 高清,http://182.32.204.243:1921/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视 高清,http://182.32.204.243:1921/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视 高清,http://182.32.204.243:1921/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视 高清,http://182.32.204.243:1921/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视 高清,http://182.32.204.243:1921/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视 高清,http://182.32.204.243:1921/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视 高清,http://182.32.204.243:1921/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视 高清,http://182.32.204.243:1921/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视 高清,http://182.32.204.243:1921/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视 高清,http://182.32.204.243:1921/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视 高清,http://182.32.204.243:1921/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://182.32.204.243:1921/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://182.32.204.243:1921/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://182.32.204.243:1921/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://182.32.204.243:1921/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://182.32.204.243:1921/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://182.32.204.243:1921/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://182.32.204.243:1921/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视4K,http://182.32.204.243:1921/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://182.32.204.243:1921/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://182.32.204.243:1921/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://182.32.204.243:1921/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://182.32.204.243:1921/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://182.32.204.243:1921/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://182.32.204.243:1921/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
