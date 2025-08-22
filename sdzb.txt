@@ -189,10 +189,10 @@ CHC高清电影,http://111.8.242.100:4085/tsfile/live/0140_1.m3u8?key=txiptv&pla
 
 
 山东酒店源,#genre#
-山东卫视 高清,http://182.32.204.243:1921/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-山东综艺 高清,http://182.32.204.243:1921/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁高清,http://182.32.204.243:1921/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
-山东生活 高清,http://182.32.204.243:1921/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://182.32.204.243:1921/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺,http://182.32.204.243:1921/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://182.32.204.243:1921/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
+山东生活,http://182.32.204.243:1921/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
 山东少儿,http://182.32.204.243:1921/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 山东农科,http://182.32.204.243:1921/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 山东公共,http://182.32.204.243:1921/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
