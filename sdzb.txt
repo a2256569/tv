@@ -1,7 +1,7 @@
 广西酒店源,#genre#
-动作电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8
-家庭影院,http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8
-高清电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
+CHC动作电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8
+CHC家庭影院,http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8
+CHC影迷电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
 广西影视HD,http://vip1.xinketongxun.fun:8082/tsfile/live/1037_1.m3u8
 广西移动HD,http://vip1.xinketongxun.fun:8082/tsfile/live/1001_1.m3u8
 广西综艺旅游HD,http://vip1.xinketongxun.fun:8082/tsfile/live/1040_1.m3u8
