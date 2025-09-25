@@ -50,7 +50,7 @@ CCTV-风云剧场,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 CCTV-风云音乐,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227502/index.m3u8
 CCTV-风云足球,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227377/index.m3u8
 CCTV-怀旧剧场,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
-中国教育-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
+CETV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
 卫视频道,#genre#
 安多卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
 安徽卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
@@ -141,10 +141,10 @@ CCTV-怀旧剧场,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 辽宁经济,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
 辽宁生活,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
 辽宁生活,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
-辽宁体育休闲,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
-辽宁体育休闲,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
-辽宁移动电视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
-辽宁移动电视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
+辽宁体育,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+辽宁体育,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
+辽宁移动,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
+辽宁移动,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
 辽宁影视剧,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
 辽宁影视剧,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 沈阳新闻综合,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
@@ -212,6 +212,3 @@ CCTV-怀旧剧场,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3台,http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
-
-
-
