@@ -209,7 +209,7 @@ CETV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/in
 🔞成人9+9⁺_0000,#genre#
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3台,http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
@@ -447,3 +447,4 @@ CineMan ExExEx TWO,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20090/inde
 StrahTV Adult TV HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31707/index.m3u8
 StrahTV PlayBoyz TV HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31709/index.m3u8
 StrahTV Ню Арт HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31716/index.m3u8
+
