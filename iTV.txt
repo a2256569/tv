@@ -447,4 +447,8 @@ CineMan ExExEx TWO,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20090/inde
 StrahTV Adult TV HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31707/index.m3u8
 StrahTV PlayBoyz TV HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31709/index.m3u8
 StrahTV Ню Арт HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31716/index.m3u8
-
+Drama,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31700/index.m3u8
+KIN18+xxx,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31707/index.m3u8
+XZ,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31716/index.m3u8
+XZwm,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31716/index.m3u8
+HORROR,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31708/index.m3u8
