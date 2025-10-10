@@ -212,7 +212,16 @@ CETV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/in
 香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松視3台,http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
+松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+极限,http://applivewatermark.imfc.cn:80/live/dfb0ffc03f9f1f79deb6fe47a287f4fa.flv
+香蕉,http://applivewatermark.imfc.cn:80/live/be57c598136569437e3a44eff7863549.flv
+惊艳,http://applivewatermark.imfc.cn:80/live/3188c852a5fd96ce5ff6a46b1264381f.flv
+彩虹电影,http://applivewatermark.imfc.cn:80/live/1b5beef1849a7a6de52cb0413b68b91a.flv
+K频道,http://applivewatermark.imfc.cn:80/live/c2a94920138435f1e82706d84caae385.flv
+彩虹e,http://applivewatermark.imfc.cn:80/live/02ba8de8ed81d450de77ee651805b363.flv
+松视3,http://applivewatermark.imfc.cn:80/live/0dca2f0a283f9b503dac1cc5a3d80011.flv
+松视1,http://applivewatermark.imfc.cn:80/live/0f1d6961129341fbd17cc1e60ddf52a0.flv
+
 Redlight HD,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/242/index.m3u8
 Private TV,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/243/index.m3u8
 Hustler HD Europe,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/244/index.m3u8
@@ -463,4 +472,3 @@ Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
