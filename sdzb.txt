@@ -116,8 +116,8 @@ CCTV17,http://101.74.31.102:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&a
 广西卫视,http://101.74.31.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南酒店源,#genre#
-凤凰资讯,http://111.8.242.124:4095/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视,http://111.8.242.124:4095/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://111.8.242.124:4095/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://111.8.242.124:4095/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.242.124:4095/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://111.8.242.124:4095/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://111.8.242.124:4095/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
