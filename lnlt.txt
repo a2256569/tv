@@ -34,7 +34,7 @@ CCTV15-音乐,http://123.188.198.64:9902/tsfile/live/0015_1.m3u8?key=txiptv&play
 CCTV5+体育赛事,http://123.188.198.64:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视,#genre#
 辽宁卫视,http://123.188.198.64:9902/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://123.188.198.64:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视高清,http://123.188.198.64:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://123.188.198.64:9902/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://123.188.198.64:9902/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://123.188.198.64:9902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -67,3 +67,4 @@ CCTV5+体育赛事,http://123.188.198.64:9902/tsfile/live/0016_1.m3u8?key=txiptv
 兵团卫视,http://123.188.198.64:9902/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://123.188.198.64:9902/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://123.188.198.64:9902/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+
