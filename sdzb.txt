@@ -522,225 +522,334 @@ HelloKitty,http://kamiplayer.com:35455/huya/11352879
 萌新司机,http://kamiplayer.com:35455/huya/11352881
 落于巧克力,http://kamiplayer.com:35455/huya/29465879
 
+🐯经典电影,#genre#
+人在江湖,https://bfikuncdn.com/20230421/hBWOEiVC/index.m3u8
+街头悍将,https://bfikuncdn.com/20221210/TyfKXxdC/index.m3u8
+江湖新秩序,https://bfikuncdn.com/20221210/kxn48SfQ/index.m3u8
+人在江湖,https://bfikuncdn.com/20221209/qR35tZJy/index.m3u8
+猛龙过江,https://bfikuncdn.com/20221107/gfCfTpsA/index.m3u8
+战无不胜,https://bfikuncdn.com/20221107/ikfPyvqm/index.m3u8
+只手遮天,https://bfikuncdn.com/20221107/q15BPKYT/index.m3u8
+红星大飞哥,https://bfikuncdn.com/20221107/JALlYaih/index.m3u8
+地狱龙,https://bfikuncdn.com/20220928/c0JZuhqy/index.m3u8
+友情岁月,https://bfikuncdn.com/20220928/3U0aibgt/index.m3u8
+红星十三妹,https://bfikuncdn.com/20220928/VPKlHwTG/index.m3u8
+以暴制暴,https://vip.ffzy-play7.com/20230409/21741_4628cef0/index.m3u8
+龙争虎斗,https://vip.ffzy-play7.com/20221227/10015_3a7893aa/index.m3u8
+夕阳古惑仔,https://vip.ffzy-play7.com/20221108/2502_111bfdcd/index.m3u8
+二龙湖浩哥,https://play.xluuss.com/play/rb2kg9Ad/index.m3u8
+人在囧途,https://bfikuncdn.com/20221004/wsUbKt86/index.m3u8
+唐人街探案1,https://bfikuncdn.com/20221003/kFnaSowp/index.m3u8
+唐人街探案2,https://bfikuncdn.com/20221003/OIo3rlEF/index.m3u8
+唐人街探案3,https://bfikuncdn.com/20221105/bpjYVMDr/index.m3u8
+举起手来1,https://bfikuncdn.com/20221004/AEoQ1hFO/index.m3u8
+举起手来2,https://bfikuncdn.com/20221105/GsAhz5l2/index.m3u8
+让子弹飞,https://bfikuncdn.com/20221109/SvtmvBDr/index.m3u8
+让子弹飞,https://vip.kuaikan-cdn4.com/20240220/zfuGtMxP/index.m3u8
+战狼1,https://bfikuncdn.com/20221002/xnD2bBdZ/index.m3u8
+战狼2,https://bfikuncdn.com/20221002/vXM8qPtl/index.m3u8
+飞驰人生2,https://bfikuncdn.com/20240429/R42jdLd2/index.m3u8
+飞驰人生1,https://bfikuncdn.com/20221009/squWnBdL/index.m3u8
+流浪地球1,https://bfikuncdn.com/20221010/9V6MZLe3/index.m3u8
+流浪地球2,https://bfikuncdn.com/20221010/9V6MZLe3/index.m3u8
+头文字D,https://bfikuncdn.com/20221108/N7lND4uf/index.m3u8
+速度与激情1,https://bfikuncdn.com/20221109/zHweBAb4/index.m3u8
+速度与激情2,https://bfikuncdn.com/20221109/KRWP0QeA/index.m3u8
+速度与激情3,https://bfikuncdn.com/20221109/gXRPmsLx/index.m3u8
+速度与激情4,https://bfikuncdn.com/20221109/rCbApV1w/index.m3u8
+速度与激情5,https://bfikuncdn.com/20221109/JxdI85fe/index.m3u8
+速度与激情6,https://bfikuncdn.com/20221105/bnKnHi6s/index.m3u8
+速度与激情7,https://bfikuncdn.com/20221109/nyEiyb5a/index.m3u8
+速度与激情8,https://bfikuncdn.com/20221008/7muk074y/index.m3u8
+速度与激情9,https://bfikuncdn.com/20221105/MtJ0VHUN/index.m3u8
+速度与激情10,https://bfikuncdn.com/20230620/5cEbrBn0/index.m3u8
+山村老尸1,https://bfikuncdn.com/20221015/QthbxSS0/index.m3u8
+山村老尸2,https://bfikuncdn.com/20221001/9nwoyhGk/index.m3u8
+人肉叉烧包,https://bfikuncdn.com/20221004/Acq5NwI4/index.m3u8
+僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
+富贵再三逼人,https://s2.bfengbf.com/video/fuguizaisanbiren/HD国语/index.m3u8
+赌王出山,https://bfikuncdn.com/20221008/9RiEXAdc/index.m3u8
+赌侠大战拉斯维加斯,https://bfikuncdn.com/20221008/iPtcTBQL/index.m3u8
+赌侠1999,https://bfikuncdn.com/20221008/4ckrPLX1/index.m3u8
+赌侠,https://bfikuncdn.com/20221003/Z19SMGu8/index.m3u8
+赌侠人定胜天,https://bfikuncdn.com/20221008/IMoeuD2Z/index.m3u8
 
-咪咕电影,#genre#
-惊奇队长2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/969/5105240969/media/5105240969_5229088474_56.mp4
-幸福来接龙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/188/5105277188/media/5105277188_5229127101_56.mp4
-爆裂点,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/268/690/5105268690/media/5105268690_5228344247_56.mp4
-魔法奇缘2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/620/5105240620/media/5105240620_5222537798_56.mp4
-流浪地球2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/616/5105087616/media/5105087616_5103711432_56.mp4
-满江红,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/102/630/5105102630/media/5105102630_5111092406_56.mp4
-芭比,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/179/332/5105179332/media/5105179332_5184976960_56.mp4
-芭比（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/179/364/5105179364/media/5105179364_5185020498_56.mp4
-飞驰人生,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/075/226/5102075226/media/5102075226_5176203387_56.mp4
-变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
-惊奇队长2（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/268/275/5105268275/media/5105268275_5229092646_56.mp4
-爆裂点（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/268/638/5105268638/media/5105268638_5228345105_56.mp4
-刀尖,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/045/985/5102045985/media/5102045985_5225281674_56.mp4
-飞鸭向前冲,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/253/783/5105253783/media/5105253783_5229877318_56.mp4
-飞鸭向前冲（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/253/786/5105253786/media/5105253786_5229085495_56.mp4
-铜梅奇案,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/204/719/5105204719/media/5105204719_5192396505_56.mp4
-连环局（2023）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/229/006/5105229006/media/5105229006_5209789986_56.mp4
-少女卡米拉,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/115/5105277115/media/5105277115_5228354378_56.mp4
-2023微博电影之夜,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/127/486/5105127486/media/5105127486_5142745280_56.mp4
-威尼斯惊魂夜,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/283/5105240283/media/5105240283_5221633869_56.mp4
-威尼斯惊魂夜（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/280/5105240280/media/5105240280_5221635639_56.mp4
-火山挚恋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/219/142/5105219142/media/5105219142_5216816716_56.mp4
-火山挚恋（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/219/320/5105219320/media/5105219320_5216817669_56.mp4
-金爵电影论坛：开幕论坛，光影连接世界与中国,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/128/221/5105128221/media/5105128221_5136334098_56.mp4
-奥本海默,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/210/263/5105210263/media/5105210263_5218204577_56.mp4
-禁锢,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/139/123/5105139123/media/5105139123_5196361338_56.mp4
-茶啊二中,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/187/764/5105187764/media/5105187764_5179792273_56.mp4
-奥本海默（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/210/264/5105210264/media/5105210264_5218205065_56.mp4
-第25届上海国际电影节金爵盛典内场,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/128/212/5105128212/media/5105128212_5135498509_56.mp4
-长安三万里,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/194/082/5105194082/media/5105194082_5185169968_56.mp4
-玩命三日,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/497/804/5102497804/media/5102497804_5010862977_56.mp4
-GT赛车：极速狂飙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/219/049/5105219049/media/5105219049_5211432582_56.mp4
-GT赛车：极速狂飙（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/228/095/5105228095/media/5105228095_5211436706_56.mp4
-荒野咖啡馆,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/695/069/5102695069/media/5102695069_5183263521_56.mp4
-松江往事,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/551/808/5103551808/media/5103551808_5011653460_56.mp4
-夺宝奇兵：命运转盘,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/194/678/5105194678/media/5105194678_5208762626_56.mp4
-夺宝奇兵：命运转盘（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/201/632/5105201632/media/5105201632_5208836112_56.mp4
-憋住·别笑,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/187/705/5105187705/media/5105187705_5179790519_56.mp4
-疯狂元素城,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/015/5105125015/media/5105125015_5208799011_56.mp4
-别叫我“赌神”,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/152/230/5105152230/media/5105152230_5160978257_56.mp4
-疯狂元素城（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/200/333/5105200333/media/5105200333_5208770236_56.mp4
-银河护卫队3,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/119/953/5105119953/media/5105119953_5165542739_56.mp4
-谁杀死了尼尔森先生？,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/132/5105277132/media/5105277132_5228360009_56.mp4
-欢喜哥的春天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/454/927/5103454927/media/5103454927_5010377798_56.mp4
-一起走过,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/405/394/5103405394/media/5103405394_5009985072_56.mp4
-人生路不熟,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/131/5105137131/media/5105137131_5146366209_56.mp4
-银河护卫队3（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/148/912/5105148912/media/5105148912_5165534411_56.mp4
-检察风云,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/432/5105125432/media/5105125432_5133001628_56.mp4
-长空之王,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/433/5105125433/media/5105125433_5137544788_56.mp4
-爱乐骑士,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/619/5105240619/media/5105240619_5219454987_56.mp4
-倍儿喜欢你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/555/790/5103555790/media/5103555790_5108218900_56.mp4
-龙马精神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/423/5105125423/media/5105125423_5131378242_56.mp4
-路上,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/101/854/5105101854/media/5105101854_5110054462_56.mp4
-辣警狂花1,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/082/688/5105082688/media/5105082688_5090573432_56.mp4
-宇宙探索编辑部,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/108/316/5105108316/media/5105108316_5117782528_56.mp4
-草台班子：套路奇兵,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/104/319/5105104319/media/5105104319_5112280105_56.mp4
-父母的婚事,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/086/625/5105086625/media/5105086625_5110010003_56.mp4
-梦想森林,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/107/931/5105107931/media/5105107931_5115780607_56.mp4
-忠犬八公,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/104/576/5105104576/media/5105104576_5113514210_56.mp4
-辣警狂花3,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/086/433/5105086433/media/5105086433_5095056625_56.mp4
-辣警狂花2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/084/878/5105084878/media/5105084878_5093250410_56.mp4
-郭富山,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/618/5105087618/media/5105087618_5099300276_56.mp4
-波士顿连环命案,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/616/5105240616/media/5105240616_5219425588_56.mp4
-望道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/068/937/5105068937/media/5105068937_5131379344_56.mp4
-杜鹃花儿开,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/109/492/5105109492/media/5105109492_5118138353_56.mp4
-我不是葫芦瓢,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/617/5105087617/media/5105087617_5109507771_56.mp4
-地心危机,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/083/341/5105083341/media/5105083341_5106121359_56.mp4
-不止不休,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/529/191/5102529191/media/5102529191_5112221778_56.mp4
-藏历一年,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/612/5105087612/media/5105087612_5107763691_56.mp4
-雪岭猎人传说,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/613/5105087613/media/5105087613_5112237575_56.mp4
-谁开的枪,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/609/5105087609/media/5105087609_5104882208_56.mp4
-小初,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/619/5105087619/media/5105087619_5104835409_56.mp4
-哆啦A梦：大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
-回廊亭,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/077/036/5105077036/media/5105077036_5108250018_56.mp4
-大爱撑天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/070/908/5105070908/media/5105070908_5102930661_56.mp4
-哆啦A梦：大雄与天空的理想乡（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
-不二兄弟,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/084/033/5105084033/media/5105084033_5101014610_56.mp4
-断网（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/859/5105087859/media/5105087859_5097001237_56.mp4
-断网,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/077/039/5105077039/media/5105077039_5096997515_56.mp4
-大人父母官,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/610/5105087610/media/5105087610_5100940016_56.mp4
-此情可问天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/615/5105087615/media/5105087615_5099297359_56.mp4
-爱在咫尺间,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/194/5105087194/media/5105087194_5097233165_56.mp4
-会考试的猛犸象,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/367/504/5102367504/media/5102367504_5099299527_56.mp4
-极速保镖,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/068/854/5105068854/media/5105068854_5087501449_56.mp4
-中国乒乓之绝地反击,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/124/027/5103124027/media/5103124027_5105840875_56.mp4
-绿色的声音,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/611/5105087611/media/5105087611_5112270814_56.mp4
-蚁人与黄蜂女：量子狂潮,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/066/729/5105066729/media/5105066729_5103698808_56.mp4
-蚁人与黄蜂女：量子狂潮（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/093/075/5105093075/media/5105093075_5103699861_56.mp4
-冰山下的守望者,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/622/5105087622/media/5105087622_5097233930_56.mp4
-书记日记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/080/203/5105080203/media/5105080203_5087815657_56.mp4
-岗上花开,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/583/250/5103583250/media/5103583250_5097447948_56.mp4
-可不可以不要离开我,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/070/330/5105070330/media/5105070330_5076928601_56.mp4
-深爱,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/714/883/5102714883/media/5102714883_5091243493_56.mp4
-我的青春不再见,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/068/270/5105068270/media/5105068270_5075240309_56.mp4
-天降神运,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/068/857/5105068857/media/5105068857_5099822409_56.mp4
-山乡宁静,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/068/268/5105068268/media/5105068268_5095464255_56.mp4
-绝境峭壁岭,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/088/066/5105088066/media/5105088066_5184294909_56.mp4
-深海巨蟒,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/053/190/5105053190/media/5105053190_5090549740_56.mp4
-网络谜踪2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/227/618/5105227618/media/5105227618_5217182810_56.mp4
-深海,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/239/150/5102239150/media/5102239150_5106242791_56.mp4
-毒舌律师,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/130/693/5105130693/media/5105130693_5148622329_56.mp4
-无名,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/094/425/5105094425/media/5105094425_5104328263_56.mp4
-抬头见喜,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/050/790/5105050790/media/5105050790_5076112880_56.mp4
-毒舌律师（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/139/436/5105139436/media/5105139436_5148623960_56.mp4
-妈妈，我不想坐牢,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/086/958/5105086958/media/5105086958_5117712454_56.mp4
-绝望主夫,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/049/000/5105049000/media/5105049000_5052793870_56.mp4
-想见你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/053/335/5105053335/media/5105053335_5091188707_56.mp4
-橡树餐厅,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/048/771/5105048771/media/5105048771_5075762502_56.mp4
-遗嘱囧事,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/020/5105027020/media/5105027020_5045788874_56.mp4
-阿凡达：水之道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/004/544/5101004544/media/5101004544_5091261956_56.mp4
-变身攻略,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/048/768/5105048768/media/5105048768_5051306440_56.mp4
-摇滚藏獒：乘风破浪,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/607/5105087607/media/5105087607_5119252322_56.mp4
-阿凡达：水之道（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/080/728/5105080728/media/5105080728_5091264010_56.mp4
-夏至廊桥,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/053/330/5105053330/media/5105053330_5095056227_56.mp4
-梦想的面具,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/872/5105046872/media/5105046872_5050710843_56.mp4
-依恋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/047/196/5105047196/media/5105047196_5049929756_56.mp4
-断线之后,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/229/005/5105229005/media/5105229005_5210702330_56.mp4
-奇迹小子,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/887/5105046887/media/5105046887_5075571066_56.mp4
-老人与经书,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/041/858/5105041858/media/5105041858_5048162532_56.mp4
-厨师杰克冒险记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/217/543/5105217543/media/5105217543_5212639156_56.mp4
-第25届上海国际电影节金爵奖颁奖典礼内场,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/128/217/5105128217/media/5105128217_5140316466_56.mp4
-银河护卫队：假日特辑,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/451/5105240451/media/5105240451_5217249672_56.mp4
-别让我走,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/341/5105044341/media/5105044341_5049915642_56.mp4
-因爱而伟大,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/202/5105044202/media/5105044202_5048181481_56.mp4
-我的三平方,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/228/5105044228/media/5105044228_5090640783_56.mp4
-我心向上,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/041/722/5105041722/media/5105041722_5068040116_56.mp4
-扫黑行动,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/032/550/5105032550/media/5105032550_5070039368_56.mp4
-老兵刀锋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/033/628/5105033628/media/5105033628_5044988125_56.mp4
-不一样的九零后,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/045/5105027045/media/5105027045_5049893074_56.mp4
-您好，北京,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/033/631/5105033631/media/5105033631_5071780299_56.mp4
-冒牌车王,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/033/625/5105033625/media/5105033625_5070032611_56.mp4
-大话女儿国,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/016/5105014016/media/5105014016_5067370030_56.mp4
-结伴前行,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/259/037/5105259037/media/5105259037_5222865165_56.mp4
-铃芽之旅（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/205/437/5105205437/media/5105205437_5195916136_56.mp4
-铃芽之旅,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/798/5105137798/media/5105137798_5195915769_56.mp4
-青蛙王子历险记2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/015/756/5105015756/media/5105015756_5090426324_56.mp4
-天之书,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/025/5105014025/media/5105014025_5040004591_56.mp4
-黑豹2（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/093/073/5105093073/media/5105093073_5104372025_56.mp4
-黑豹2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/438/611/5102438611/media/5102438611_5104382868_56.mp4
-陪你在全世界长大,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/032/541/5105032541/media/5105032541_5075542133_56.mp4
-你好，珠峰,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/327/214/5102327214/media/5102327214_5044009043_56.mp4
-小丑奇缘,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/032/537/5105032537/media/5105032537_5090554946_56.mp4
-冻伤的鲤鱼,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/269/418/5105269418/media/5105269418_5227349050_56.mp4
-爱在井冈,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/723/5105027723/media/5105027723_5075748731_56.mp4
-春水繁星,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/029/991/5105029991/media/5105029991_5071493160_56.mp4
-爆裂蝴蝶,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/735/5105027735/media/5105027735_5066629682_56.mp4
-林深时见麓,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/029/994/5105029994/media/5105029994_5090537248_56.mp4
-我的遗憾和你有关,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/029/996/5105029996/media/5105029996_5043997787_56.mp4
-丹顶鹤,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/028/190/5105028190/media/5105028190_5067121871_56.mp4
-福尔摩斯小姐：伦敦厄运,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/017/066/5105017066/media/5105017066_5039035382_56.mp4
-殊途陌路,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/718/5105027718/media/5105027718_5070817096_56.mp4
-一百分女人,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/026/954/5105026954/media/5105026954_5066535611_56.mp4
-少年蒙克,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/074/730/5101074730/media/5101074730_5226757525_56.mp4
-我是霸王龙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/159/5105044159/media/5105044159_5067182149_56.mp4
-新灰姑娘2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/039/433/5105039433/media/5105039433_5071483428_56.mp4
-新大头儿子和小头爸爸5：我的外星朋友,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/011/5105014011/media/5105014011_5041607703_56.mp4
-爱情天梯,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/023/5105014023/media/5105014023_5066475448_56.mp4
-木奖杯,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/354/5105004354/media/5105004354_5039029809_56.mp4
-永远的战士,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/555/5103625555/media/5103625555_5032548193_56.mp4
-九兰,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/082/5105004082/media/5105004082_5036262250_56.mp4
-杨蓉的世界,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/098/5105004098/media/5105004098_5034590475_56.mp4
-热汤,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/563/538/5103563538/media/5103563538_5034243226_56.mp4
-我要和你在一起,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/327/663/5102327663/media/5102327663_5034244570_56.mp4
-奇妙能力哥,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/628/003/5103628003/media/5103628003_5184294017_56.mp4
-临时乘客,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/501/5103623501/media/5103623501_5031010989_56.mp4
-情丝万缕,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/262/220/5105262220/media/5105262220_5224413214_56.mp4
-追光万里,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/879/5105046879/media/5105046879_5075545489_56.mp4
-哥，你好,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/004/362/5105004362/media/5105004362_5164601373_56.mp4
-狼群,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/620/522/5103620522/media/5103620522_5034244810_56.mp4
-木偶奇遇记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/093/547/5105093547/media/5105093547_5138283563_56.mp4
-我是条咸鱼,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/596/097/5103596097/media/5103596097_5031011149_56.mp4
-鬼吹灯之精绝古城,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/624/103/5103624103/media/5103624103_5031336546_56.mp4
-光影帝国,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/219/143/5105219143/media/5105219143_5205764957_56.mp4
-证明,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/443/5103623443/media/5103623443_5031008996_56.mp4
-铁拳行动,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/050/5105004050/media/5105004050_5034343176_56.mp4
-在河之洲,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/151/140/5105151140/media/5105151140_5158891699_56.mp4
-爱情的代驾,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/367/5105004367/media/5105004367_5035480741_56.mp4
-最好的道别,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/581/5103625581/media/5103625581_5035505948_56.mp4
-世界上最爱我的人,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/002/868/5105002868/media/5105002868_5032568441_56.mp4
-钢甲战队,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/620/521/5103620521/media/5103620521_5037508224_56.mp4
-哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
-小小足球队,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/381/5105004381/media/5105004381_5035598546_56.mp4
-我的英雄,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/620/523/5103620523/media/5103620523_5034580143_56.mp4
-红星闪亮,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/036/5105004036/media/5105004036_5031413972_56.mp4
-山海经之再见怪兽,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/618/055/5103618055/media/5103618055_5032565952_56.mp4
-坠落（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/071/035/5105071035/media/5105071035_5096528689_56.mp4
-坠落,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/071/026/5105071026/media/5105071026_5096513397_56.mp4
-致命记忆之花开双生,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/625/448/5103625448/media/5103625448_5166426402_56.mp4
-铁血战士：狩猎,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/624/358/5103624358/media/5103624358_5208717990_56.mp4
-独行月球,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/256/5103615256/media/5103615256_5034391012_56.mp4
-忍者神龟：崛起（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/078/641/5105078641/media/5105078641_5097528469_56.mp4
-忍者神龟：崛起,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/075/464/5105075464/media/5105075464_5097460852_56.mp4
-明日战记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/031/207/5102031207/media/5102031207_5070727553_56.mp4
-明日战记（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/026/966/5105026966/media/5105026966_5066621870_56.mp4
-新铁弓缘,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/002/5105014002/media/5105014002_5035299264_56.mp4
-猪猪侠大电影·海洋日记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/357/5105004357/media/5105004357_5035305861_56.mp4
-筋饼之恋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/438/5103623438/media/5103623438_5031010184_56.mp4
-我们遇见松花湖,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/580/5103625580/media/5103625580_5049881113_56.mp4
-我们的样子像极了爱情,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/628/763/5103628763/media/5103628763_5031595161_56.mp4
-遇见你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/716/5103623716/media/5103623716_5027577042_56.mp4
-黎乡遇见你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/595/258/5103595258/media/5103595258_5020546436_56.mp4
-疯了！桂宝之三星夺宝,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/615/255/5103615255/media/5103615255_5106589322_56.mp4
-北方无故人,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/596/098/5103596098/media/5103596098_5031429541_56.mp4
-开心超人之英雄的心,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/779/5103615779/media/5103615779_5031343087_56.mp4
-一直一直都很喜欢你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/626/126/5103626126/media/5103626126_5031504765_56.mp4
-药·不要,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/621/241/5103621241/media/5103621241_5029791720_56.mp4
-罗曼蒂克之城,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/433/5103615433/media/5103615433_5027042048_56.mp4
-冲出地球,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/238/745/5102238745/media/5102238745_5029766880_56.mp4
-龙女孩,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/012/175/5105012175/media/5105012175_5037547713_56.mp4
-侏罗纪大乐园,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/374/5105004374/media/5105004374_5035597694_56.mp4
-最美青春献给你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/447/5103625447/media/5103625447_5031501253_56.mp4
-少年陈真之乱世英雄,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/774/5103615774/media/5103615774_5030240803_56.mp4
-刺猬索尼克2（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/231/846/5105231846/media/5105231846_5230702839_56.mp4
-孤独的守望者,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/778/5103615778/media/5103615778_5028610457_56.mp4
-ICU病房,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/792/5105046792/media/5105046792_5067192487_56.mp4
-珠峰队长,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/370/5105004370/media/5105004370_5035305020_56.mp4
-你是我的春天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/614/054/5103614054/media/5103614054_5023970915_56.mp4
+
+九龙城寨之围城,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/3000k/hls/mixed.m3u8
+福星高照,https://vip.ffzy-play6.com/20221128/8904_328483ba/2000k/hls/mixed.m3u8
+人吓人,https://vip.ffzy-play7.com/20230131/12897_66998969/2000k/hls/mixed.m3u8
+飞龙猛将,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/2000k/hls/mixed.m3u8
+东方秃鹰,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/2000k/hls/mixed.m3u8
+龙争虎斗,https://vip.ffzy-play7.com/20221228/10118_7f88f7bd/2000k/hls/mixed.m3u8
+七小福,https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/2000k/hls/mixed.m3u8
+王牌替身,https://super.ffzy-online6.com/20230526/12448_af49c23a/2000k/hls/mixed.m3u8
+大侠胡金铨,https://vip.ffzy-play7.com/20230503/23773_a16c59d6/2000k/hls/mixed.m3u8
+龙虎武师,https://vip.ffzy-play6.com/20221124/7972_7d6545a3/2000k/hls/mixed.m3u8
+败家仔,https://vip.ffzy-play7.com/20221207/8332_71c25e63/2000k/hls/mixed.m3u8
+鬼打鬼,https://vip.ffzy-play7.com/20221115/4476_05997c13/2000k/hls/mixed.m3u8
+侠女,https://vip.ffzy-play6.com/20221207/10660_5351d881/2000k/hls/mixed.m3u8
+死亡游戏,https://vip.ffzy-play6.com/20221128/9133_9ec7be0f/2000k/hls/mixed.m3u8
+叶问2：宗师传奇,https://vip.ffzy-play2.com/20221127/1618_b175df0e/2000k/hls/mixed.m3u8
+杀破狼,https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/2000k/hls/mixed.m3u8
+倚天屠龙记之魔教教主,https://vip.ffzy-online1.com/20230622/41615_05003dd5/2000k/hls/mixed.m3u8
+锦衣卫,https://vip.ffzy-online2.com/20230531/38608_ad0ee149/2000k/hls/mixed.m3u8
+艳窟神探,https://vip.ffzy-play6.com/20221128/9227_8087daca/2000k/hls/mixed.m3u8
+花飞满城春,https://vip.ffzy-play7.com/20221128/7557_3a9a605d/2000k/hls/mixed.m3u8
+A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
+战神传说,https://vip.ffzy-play7.com/20221129/7734_53205031/2000k/hls/mixed.m3u8
+夏日福星,https://vip.ffzy-play7.com/20230118/11937_84244e52/2000k/hls/mixed.m3u8
+夺帅,https://vip.ffzy-play2.com/20221021/154_e8f3a04c/2500k/hls/mixed.m3u8
+火烧岛,https://vip.ffzy-play6.com/20221129/9336_58c74ab9/2000k/hls/mixed.m3u8
+群龙戏凤,+https://vip.ffzy-play7.com/20230423/22931_b2b1c621/2000k/hls/mixed.m3u8
+老虎田鸡,https://vip.ffzy-play7.com/20221224/9583_f95a6383/2000k/hls/mixed.m3u8
+提防小手,https://vip.ffzy-play7.com/20221209/9164_1db5b92a/2000k/hls/mixed.m3u8
+运财五福星,https://vip.ffzy-play7.com/20221208/8988_21580eb4/2000k/hls/mixed.m3u8
+豪门夜宴,https://vip.ffzy-play.com/20221204/29458_3909f6d0/2000k/hls/mixed.m3u8
+绝色武器,https://vip.ffzy-play6.com/20221126/8343_82eb2432/2000k/hls/mixed.m3u8
+荡寇风云,https://vip.ffzy-play6.com/20221104/4064_ae16f474/2000k/hls/mixed.m3u8
+蜀山：新蜀山剑侠,https://vip.ffzy-play7.com/20221115/4566_fdf3285b/2000k/hls/mixed.m3u8
+三国之见龙卸甲,https://vip.ffzy-play6.com/20221022/935_ffb2fe05/2000k/hls/mixed.m3u8
+笑功震武林,https://vip.ffzy-play6.com/20221021/590_9470ecda/2000k/hls/mixed.m3u8
+绝色武器,https://vip.ffzy-play6.com/20221126/8343_82eb2432/2000k/hls/mixed.m3u8
+密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/2000k/hls/mixed.m3u8
+皇家师姐,https://vip.ffzy-play6.com/20221206/10321_eaa2135d/2000k/hls/mixed.m3u8
+龙的心,https://vip.ffzy-play7.com/20221115/4539_8b9150f6/2000k/hls/mixed.m3u8
+忠义群英,https://vip.ffzy-play7.com/20221116/4836_e3063898/2000k/hls/mixed.m3u8
+鬼咬鬼,https://vip.ffzy-play7.com/20221208/8822_26a70529/2000k/hls/mixed.m3u8
+拳神,https://vip.ffzy-play6.com/20221127/8671_f0fde3f9/2000k/hls/mixed.m3u8
+鬼马双星,https://vip.ffzy-play7.com/20221206/8062_9ab4de18/2000k/hls/mixed.m3u8
+金衣大侠,https://vip.ffzy-play7.com/20221128/7587_339701b6/2000k/hls/mixed.m3u8
+浪漫风暴,https://vip.ffzy-play7.com/20221129/7668_624e7734/2000k/hls/mixed.m3u8
+大上海,https://vip.ffzy-play6.com/20221126/8327_89044d87/2000k/hls/mixed.m3u8
+死亡塔,https://vip.ffzy-play7.com/20221117/5079_56e2cb5b/2000k/hls/mixed.m3u8
+神勇双响炮,https://vip.ffzy-play6.com/20221128/8991_916bbcd1/2000k/hls/mixed.m3u8
+飞燕金刀,https://vip.ffzy-play7.com/20221208/8580_cc26d2cb/2000k/hls/mixed.m3u8
+黄飞鸿少林拳,https://vip.ffzy-play7.com/20221128/7561_64e57fa4/2000k/hls/mixed.m3u8
+霹雳大喇叭,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/2000k/hls/mixed.m3u8
+黄飞鸿之英雄有梦,https://vip.ffzy-online.com/20221017/1065_6fccd535/2000k/hls/mixed.m3u8
+双子神偷,https://vip.ffzy-play6.com/20221127/8712_7c8afb26/2000k/hls/mixed.m3u8
+八两金,https://vip.ffzy-play7.com/20230101/10670_06ccd764/2000k/hls/mixed.m3u8
+咸鱼翻生,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/2000k/hls/mixed.m3u8
+四大门派,https://vip.ffzy-play6.com/20221128/9134_0b15a161/2000k/hls/mixed.m3u8
+时来运转,https://vip.ffzy-play7.com/20221209/9156_396eac04/2000k/hls/mixed.m3u8
+赞先生与找钱华,https://vip.ffzy-play6.com/20221207/10710_1642c7db/2000k/hls/mixed.m3u8
+画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/2000k/hls/mixed.m3u8
+老虎煞星,https://vip.ffzy-play7.com/20221128/7611_ae4536d6/2000k/hls/mixed.m3u8
+黄飞鸿之西域雄狮,https://vip.ffzy-play6.com/20221112/6388_fe5bbcf4/2000k/hls/mixed.m3u8
+老豆唔怕多,https://vip.ffzy-play7.com/20221207/8412_115a031f/2000k/hls/mixed.m3u8
+武林风云,https://s6.bfzycdn.com/video/wulinfengyun/HD/index.m3u8
+香港厨神,https://vip.ffzy-play6.com/20221023/1316_e4c09cf2/2000k/hls/mixed.m3u8
+破戒,https://vip.ffzy-play6.com/20221128/9079_00447336/2000k/hls/mixed.m3u8
+蜀山传,https://vip.ffzy-play6.com/20221018/35_8c55dbff/2000k/hls/mixed.m3u8
+奇谋妙计五福星,https://vip.ffzy-play7.com/20221115/4730_a7515224/2000k/hls/mixed.m3u8
+七人乐队,https://vip.ffzy-play6.com/20221115/7057_a469d3f3/2000k/hls/mixed.m3u8
+快餐车,https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/2000k/hls/mixed.m3u8
+最佳福星,https://vip.ffzy-play7.com/20221208/9011_404faaa6/2000k/hls/mixed.m3u8
+一触即发,https://v9.dious.cc/20231127/DarqmL9B/index.m3u8
+灵幻先生,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/2000k/hls/mixed.m3u8
+五福星撞鬼,https://vip.ffzy-play6.com/20221112/6191_fddf9c79/2000k/hls/mixed.m3u8
+肥龙过江,https://vip.ffzy-online.com/20221017/910_1576b6c4/2000k/hls/mixed.m3u8
+猛鬼入侵黑社会,https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
+中国最后一个太监,https://vip.ffzy-play6.com/20221128/9044_42d732f5/2000k/hls/mixed.m3u8
+山东响马,https://vip.ffzy-play6.com/20221128/9106_e034c343/2000k/hls/mixed.m3u8
+富贵兵团,https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/2000k/hls/mixed.m3u8
+瘦虎肥龙,https://vip.ffzy-play7.com/20230119/11999_b647b4d4/2000k/hls/mixed.m3u8
+恶战,https://vip.ffzy-play7.com/20221028/461_a812e9e0/2000k/hls/mixed.m3u8
+无面俾,https://vip.ffzy-play7.com/20230422/22713_000cbfc7/2000k/hls/mixed.m3u8
+林世荣,https://vip.ffzy-play7.com/20221209/9096_70ae66c7/2000k/hls/mixed.m3u8
+乱世儿女,https://vip.ffzy-play6.com/20221129/9372_be11aa91/2000k/hls/mixed.m3u8
+杂家小子,https://vip.ffzy-play6.com/20221128/9261_f18e5614/2000k/hls/mixed.m3u8
+富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/2000k/hls/mixed.m3u8
+大千世界,https://vip.ffzy-play7.com/20221208/8558_afd6760b/2000k/hls/mixed.m3u8
+洪福齐天,https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
+李小龙的生与死,https://vip.ffzy-play7.com/20221128/7616_58d018a9/2000k/hls/mixed.m3u8
+我的特工爷爷,https://vip.ffzy-play7.com/20221106/1991_83a8af20/2000k/hls/mixed.m3u8
+叶问前传,https://vip.ffzy-play6.com/20221022/1048_23e08967/2000k/hls/mixed.m3u8
+阿金,https://vip.ffzy-play7.com/20230510/24405_1c0593ea/2000k/hls/mixed.m3u8
+一个好人,https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/2000k/hls/mixed.m3u8
+龙凤贼捉贼,https://vip.ffzy-play6.com/20221207/10728_9abacfd6/2000k/hls/mixed.m3u8
+猛龙,https://vip.ffzy-play7.com/20221224/9706_ae656965/2000k/hls/mixed.m3u8
+一刀倾城,https://vip.ffzy-play6.com/20221129/9404_6258c24c/2000k/hls/mixed.m3u8
+皇家女将,https://vip.ffzy-play6.com/20221112/6380_015de23d/2000k/hls/mixed.m3u8
+过埠新娘,https://vip.ffzy-play7.com/20221207/8367_8b01519b/2000k/hls/mixed.m3u8
+如珠如宝的人生,https://vip.ffzy-play7.com/20230103/10938_2f52e231/2000k/hls/mixed.m3u8
+猫头鹰与小飞象,https://vip.ffzy-play7.com/20221209/9106_020c2718/2000k/hls/mixed.m3u8
+身不由己,https://vip.ffzy-play6.com/20221128/8989_246e279f/2000k/hls/mixed.m3u8
+标错参,https://vip.ffzy-play7.com/20221115/4423_ec99f147/2000k/hls/mixed.m3u8
+少林门,https://vip.ffzy-play6.com/20221128/9114_1d80750e/2000k/hls/mixed.m3u8
+杀手狂龙,https://vip.ffzy-play6.com/20221127/8685_46174f1b/2000k/hls/mixed.m3u8
+五虎屠龙,https://vip.ffzy-play6.com/20221207/10657_ed26a233/2000k/hls/mixed.m3u8
+直捣黄龙,https://vip.lz-cdn3.com/20230623/19785_d14d1e58/2000k/hls/mixed.m3u8
+醒目仔蛊惑招,https://vip.ffzy-play7.com/20221227/10014_ac5cb8a8/2000k/hls/mixed.m3u8
+铁掌旋风腿,https://vip.lz-cdn3.com/20230605/19332_398d79b4/2000k/hls/mixed.m3u8
+冰天侠女,https://yzzy.play-cdn4.com/20220611/19046_621aa95a/1000k/hls/index.m3u8
+合气道,https://yzzy.play-cdn6.com/20220625/1515_8bf6c42a/1000k/hls/index.m3u8
+七省拳王,https://vip.ffzy-play6.com/20221128/9082_03e05a5c/2000k/hls/mixed.m3u8
+环游地球八十天,https://vip.ffzy-play7.com/20221206/8255_9aa98c99/2000k/hls/mixed.m3u8
+忠烈图,https://vip.ffzy-play7.com/20221228/10158_15a3aab7/2000k/hls/mixed.m3u8
+生龙活虎小英雄,https://v.cdnlz17.com/20231011/29061_76a6ec7c/2000k/hls/mixed.m3u8
+臭头小子,https://vip.ffzy-play6.com/20221128/9169_218e5c99/2000k/hls/mixed.m3u8
+鬼流星,https://vip.ffzy-play7.com/20221128/7528_c67067f3/2000k/hls/mixed.m3u8
+北地虎,https://vip.ffzy-play6.com/20221206/10250_8ffc07da/2000k/hls/mixed.m3u8
+搏命单刀夺命枪,https://vip.ffzy-play7.com/20221208/8546_fa0622b4/2000k/hls/mixed.m3u8
+甩牙老虎,https://vip.ffzy-play7.com/20221231/10559_1f62509a/2000k/hls/mixed.m3u8
+中泰拳坛生死战,https://vip.ffzy-play6.com/20221128/9268_8dced840/2000k/hls/mixed.m3u8
+无问题,https://yzzy.play-cdn4.com/20220611/19238_1355d3a4/1000k/hls/index.m3u8
+鳄潭群英会,https://vip.ffzy-play7.com/20221228/10089_77f8bcef/2000k/hls/mixed.m3u8
+没有小鸟的天空,https://vip.ffzy-play7.com/20221113/4138_27357f3c/2000k/hls/mixed.m3u8
+铁金刚大破紫阳观,https://v.cdnlz17.com/20231009/28713_5531c328/2000k/hls/mixed.m3u8
+三德和尚与舂米六,https://vip.ffzy-play6.com/20221128/9099_38718b59/2000k/hls/mixed.m3u8
+金装武术电影大全,https://vip.ffzy-play7.com/20230512/24614_d66a3f5d/2000k/hls/mixed.m3u8
+桃姐,https://vip.ffzy-play6.com/20221021/557_01ee40ab/2000k/hls/mixed.m3u8
+狂怒沙暴,https://super.ffzy-online6.com/20230728/15732_833bb9b4/2000k/hls/index.m3u8
+十二生肖,https://vip1.lz-cdn8.com/20220816/21825_d7835860/1000k/hls/mixed.m3u8
+红番区,https://vip.ffzy-play6.com/20221112/6346_239e11e8/2000k/hls/mixed.m3u8
+我是谁,https://vip.ffzy-play6.com/20221022/881_da82c5bb/2000k/hls/mixed.m3u8
+新警察故事,https://vip.ffzy-play6.com/20221017/15_7bd9a94d/2000k/hls/mixed.m3u8
+飞鹰计划,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/2000k/hls/mixed.m3u8
+A计划国,https://leshiyuncdn.36s.top/20230717/puDV0OrF/index.m3u8
+醉拳,https://vip.lzcdn2.com/20220407/2609_2d217427/1200k/hls/mixed.m3u8
+醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/2000k/hls/mixed.m3u8
+醉拳II,https://vip.ffzy-play6.com/20221129/9308_1fceb255/2000k/hls/mixed.m3u8
+龙虎武师,https://vip.ffzy-play6.com/20221124/7972_7d6545a3/2000k/hls/mixed.m3u8
+警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
+警察故事III超级警察,https://vip.ffzy-play7.com/20221206/8266_97359a93/2000k/hls/mixed.m3u8
+警察故事4简单任务,https://vip.ffzy-play6.com/20221129/9292_f6b1a849/2000k/hls/mixed.m3u8
+喜剧之王,https://vip.lzcdn2.com/20220318/38_f03aa8b5/1200k/hls/mixed.m3u8
+功夫熊猫,https://vip.ffzy-play2.com/20221021/184_02a47dff/2500k/hls/mixed.m3u8
+功夫熊猫2,https://vip.ffzy-play6.com/20221019/152_598bf3c6/2000k/hls/mixed.m3u8
+A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m3u8
+龙马精神,https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
+总是有爱在隔离,https://vip.ffzy-play7.com/20230509/24402_8dc9f535/2000k/hls/mixed.m3u8
+急先锋,https://vip.ffzy-play6.com/20221113/6503_476b3f6c/2000k/hls/mixed.m3u8
+许愿神龙,https://vip.ffzy-play.com/20221015/902_baeb6b70/5000k/hls/mixed.m3u8
+十二生肖,https://vip1.lz-cdn8.com/20220816/21825_d7835860/1000k/hls/mixed.m3u8
+攀登者,https://vip.ffzy-play7.com/20221111/3124_7cca31fc/2000k/hls/mixed.m3u8
+神话,https://vip.ffzy-play6.com/20221017/20_989dd1f8/2000k/hls/mixed.m3u8
+福星高照,https://vip.ffzy-play6.com/20221128/8904_328483ba/2000k/hls/mixed.m3u8
+重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
+私人订制,https://vip.ffzy-play6.com/20221019/192_52684124/2000k/hls/mixed.m3u8
+龙腾虎跃,https://vip.ffzy-play7.com/20221117/5171_c2d4c959/2000k/hls/mixed.m3u8
+城市猎人,https://vip.ffzy-play7.com/20230112/11075_f5a96711/2000k/hls/mixed.m3u8
+警察故事2013,https://vip1.lz-cdn1.com/20220420/2679_f713e430/1200k/hls/mixed.m3u8
+花飞满城春,https://vip.lz-cdn3.com/20230715/20266_4e6d4caf/2000k/hls/mixed.m3u8
+火烧岛,https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
+千机变,https://vip.ffzy-play2.com/20221019/21_687fe198/2500k/hls/mixed.m3u8
+奇迹1989,https://vip1.lz-cdn1.com/20220404/947_529bcfa4/1200k/hls/mixed.m3u8
+奇迹,https://vip.ffzy-play6.com/20221020/375_f3ad7248/2000k/hls/mixed.m3u8
+特警新人类,https://vip.ffzy-play6.com/20221112/6113_c01821f3/2000k/hls/mixed.m3u8
+特务迷城,https://vip.ffzy-play6.com/20221019/111_6edaadc7/2000k/hls/mixed.m3u8
+神探蒲松龄,https://vip.lz-cdn3.com/20220930/14326_99ca3fbb/1200k/hls/mixed.m3u8
+千机变Ⅱ花都大战,https://vip.ffzy-play6.com/20221020/312_3eb493a6/2000k/hls/mixed.m3u8
+寻找成龙,https://vip.ffzy-play7.com/20221127/7273_4ce701a1/2000k/hls/mixed.m3u8
+新宿事件,https://vip.ffzy-play7.com/20230314/18148_991eeb8a/2000k/hls/mixed.m3u8
+拳精,https://vip.lzcdn2.com/20221112/22448_54ff8ab1/1200k/hls/mixed.m3u8
+英伦对决,https://vip.lz-cdn3.com/20221119/16084_02999cf1/1200k/hls/mixed.m3u8
+醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/2000k/hls/mixed.m3u8
+龙牌之谜,https://vip.ffzy-play7.com/20221111/3068_d0d6c55d/2000k/hls/mixed.m3u8
+玻璃樽,https://vip.ffzy-play7.com/20221112/3750_97a1bebc/2000k/hls/mixed.m3u8
+邻家特工,https://vip.ffzy-play6.com/20221127/8589_74f87ca4/2000k/hls/mixed.m3u8
+功夫之王,https://vip.lzcdn2.com/20220328/870_2e271dfb/1200k/hls/mixed.m3u8
+尖峰时刻,https://vip.ffzy-play6.com/20221112/6414_a02ac2a9/2000k/hls/mixed.m3u8
+尖峰时刻2,https://vip.ffzy-play6.com/20221019/81_711525b6/2000k/hls/mixed.m3u8
+霹雳火,https://vip1.lz-cdn7.com/20230215/14264_e49dd103/2000k/hls/mixed.m3u8
+飞渡卷云山,https://vip1.lz-cdn7.com/20230219/14389_ca87b60c/2000k/hls/mixed.m3u8
+龙兄虎弟,https://vip.ffzy-play6.com/20221116/7264_5b0b594e/2000k/hls/mixed.m3u8
+双龙会,https://vip.ffzy-play6.com/20221112/6064_afbd5214/2000k/hls/mixed.m3u8
+飞龙再生,https://vip.ffzy-play6.com/20221019/72_1934eddc/2000k/hls/mixed.m3u8
+尖峰时刻2,https://vip.ffzy-play6.com/20221019/81_711525b6/2000k/hls/mixed.m3u8
+尖峰时刻3,https://vip1.lz-cdn1.com/20220516/5780_3d375a51/1200k/hls/mixed.m3u8
+乐高幻影忍者大电影,https://vip.ffzy-play6.com/20221104/4075_1df206d7/2000k/hls/mixed.m3u8
+飞龙猛将,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/2000k/hls/mixed.m3u8
+抢劫坚果店2,https://leshiyuncdn.36s.top/20240203/WmfuEUkk/1614kb/hls/index.m3u8
+宝贝计划,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/2500k/hls/mixed.m3u8
+曾经相爱的我们,https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
+天下无敌,https://vip.ffzy-online1.com/20240701/53398_5021e587/2000k/hls/mixed.m3u8
+新精武门,https://vip.ffzy-play6.com/20221128/9218_225d01b1/2000k/hls/mixed.m3u8
+功夫瑜伽,https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
+绝地逃亡,https://vip.ffzy-play6.com/20221106/4545_59e4a8c2/2000k/hls/mixed.m3u8
+天将雄师,https://vip.ffzy-play6.com/20221031/3078_d47ea8cc/2000k/hls/mixed.m3u8
+神奇燕尾服,https://vip.ffzy-play6.com/20221019/127_851b9820/2000k/hls/mixed.m3u8
+解忧杂货店,https://vip.lzcdn2.com/20220503/5304_196cade3/1200k/hls/mixed.m3u8
+醉拳3,https://vip.lzcdn2.com/20220528/7719_845dbb4a/1200k/hls/mixed.m3u8
+蛇形刁手,https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
+功夫梦,https://vip.ffzy-play2.com/20221021/183_d195105f/2500k/hls/mixed.m3u8
+快餐车,https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/2000k/hls/mixed.m3u8
+机器之血,https://vip.ffzy-play6.com/20221104/4069_476e86b1/2000k/hls/mixed.m3u8
+龙少爷,https://vip.ffzy-play2.com/20240324/60020_c93c2845/2000k/hls/mixed.m3u8
+龙的心https://vip.ffzy-play7.com/20221115/4539_8b9150f6/2000k/hls/mixed.m3u8
+大兵小将,https://vip.ffzy-play7.com/20230101/10714_0de1384d/2000k/hls/mixed.m3u8
+辛亥革命,https://vip.ffzy-play6.com/20221021/591_72533d75/2000k/hls/mixed.m3u8
+铁道飞虎,https://vip.ffzy-play7.com/20221124/6781_bb0a18b1/2000k/hls/mixed.m3u8
+秦香莲,https://vip.ffzy-play7.com/20230406/21188_34e1c588/2000k/hls/mixed.m3u8
+威龙猛探,https://vip1.lz-cdn7.com/20230212/14191_de7ce1b2/2000k/hls/mixed.m3u8
+超级计划,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/2000k/hls/mixed.m3u8
+上海正午,https://vip.ffzy-play7.com/20230130/12799_c0437a87/2000k/hls/mixed.m3u8
+笑拳怪招,https://vip.ffzy-play6.com/20221128/9213_05050bb8/2000k/hls/mixed.m3u8
+西藏小子,https://vip.ffzy-play7.com/20221224/9675_24c6d3c7/2000k/hls/mixed.m3u8
+风雨双流星,https://vip.ffzy-play7.com/20221128/7518_67bd51e9/2000k/hls/mixed.m3u8
+炮弹飞车2,https://vip1.lz-cdn7.com/20230220/14422_5b8a1aed/2000k/hls/mixed.m3u8
+蛇鹤八步,https://vip.ffzy-play6.com/20221128/9119_1b13e298/2000k/hls/mixed.m3u8
+师弟出马,https://vip.ffzy-play7.com/20221115/4764_aba20ecc/2000k/hls/mixed.m3u8
+少林门,https://vip.ffzy-play6.com/20221128/9114_1d80750e/2000k/hls/mixed.m3u8
+少林木人巷,https://vip.ffzy-play6.com/20221128/9115_ff8a121e/2000k/hls/mixed.m3u8
+上海正午2：上海骑士,https://vip.ffzy-play7.com/20230131/12903_9b7878c4/2000k/hls/mixed.m3u8
+龙拳,https://vip.ffzy-play6.com/20221128/9052_3612e0ff/2000k/hls/mixed.m3u8
+密宗圣手,https://vip15.play-cdn15.com/20231015/25082_6da1fa93/2000k/hls/index.m3u8
+杀手壕,https://cdn5.yzzy-online.com/20220519/16935_c4300e76/1000k/hls/index.m3u8
+警察故事（续集）,https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/2000k/hls/mixed.m3u8
+环游地球八十天,https://vip.ffzy-play7.com/20221206/8255_9aa98c99/2000k/hls/mixed.m3u8
+新少林寺,https://vip.ffzy-play.com/20221015/881_3dbc4077/978740/hls/mixed.m3u8
+一个好人,https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/2000k/hls/mixed.m3u8
+忠烈图,https://vip.ffzy-play7.com/20221228/10158_15a3aab7/2000k/hls/mixed.m3u8
+剑花烟雨江南,https://vip.ffzy-play7.com/20221128/7570_1dca45cc/2000k/hls/mixed.m3u8
+地球：神奇的一天,https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
+特务迷城,https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
+
+​热辣滚烫 高清,https://bf.hhuus.com/play/DdwzxWwb/index.m3u8
+第二十条 高清,https://bf.hhuus.com/play/PdyB5Nne/index.m3u8
+飞驰人生2 高清,https://bf.hhuus.com/play/BeXvw9ob/index.m3u8
+暴走财神5,https://yzzy.play-cdn19.com/20240214/19830_4d7ffe25/index.m3u8
+动物园里有什么,https://yzzy.play-cdn19.com/20240212/19592_cdf0c9a2/index.m3u8
+年会不能停,https://yzzy.play-cdn19.com/20240213/19788_da07138c/index.m3u8
+我是哪吒01,https://yzzy.play-cdn17.com/20230820/16582_71124c66/index.m3u8
+我是哪吒02,https://yzzy.play-cdn19.com/20231217/10640_30f16a7b/index.m3u8
+长安十万里,https://yzzy1.play-cdn1.com/20230928/1059_b74249f1/index.m3u8
+非诚勿扰03,https://yzzy1.play-cdn20.com/20240210/16640_403958bf/index.m3u8
+孤注一掷,https://yzzy.play-cdn19.com/20240131/18306_ab283c7e/index.m3u8
+目中无人01,https://yzzy.play-cdn5.com/20220603/21612_3d196e75/index.m3u8
+目中无人02,https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/index.m3u8
+长津湖（2021中）,https://cdn2.yzzy-online.com/20220325/1969_ba918397/index.m3u8
+长津湖之水门桥（2022中）,https://cdn17.yzzy-online.com/20230817/16230_2dbddb92/index.m3u8
+志愿军（2023中）,https://cdn20.vip-vip-yzzy.com/20231201/6580_7c49d136/index.m3u8
+流浪地球（2021中）,https://cdn17.yzzy-online.com/20230721/11910_09310882/index.m3u8
+阿凡达（2009美）,https://cdn8.yzzy-online.com/20221003/22846_3c145544/index.m3u8
+阿凡达-水之道（2023美）,https://cdn14.yzzy-online.com/20230323/16241_cbb88fb9/index.m3u8
+拯救嫌疑人,https://vip.ffzy-online6.com/20231221/23620_389fb1f6/index.m3u8
+寻龙诀：生死门,https://vip.ffzy-online6.com/20231209/22827_f58f9021/index.m3u8
+我爸没说的那件事,https://vip.ffzy-online6.com/20231220/23538_cc485931/index.m3u8
+堕落花之鬼打墙,https://v.cdnlz4.com/20231218/26238_34c3c241/index.m3u8
+身份不详,https://vip.ffzy-online6.com/20231126/22132_f28d5f3e/index.m3u8
+第八个嫌疑人,https://vip.ffzy-online6.com/20231103/20854_4d9c1cff/index.m3u8
+巨齿鲨2：深渊,https://hnzy.bfvvs.com/play/DdwvJZ8b/index.m3u8
+消失的她,https://vip.ffzy-online6.com/20230825/17362_3af41c80/index.m3u8
+别叫我“赌神”,https://vip.ffzy-online6.com/20230719/15178_774ae68b/index.m3u8
+夺宝奇兵5：命运转盘,https://vip.ffzy-online6.com/20230829/17578_60be3a4e/index.m3u8
+八角笼中,https://v.cdnlz12.com/20230908/10067_41c719d6/index.m3u8
+惊天营救2,https://vip.ffzyread1.com/20230616/13945_bfb3b392/index.m3u8
+前任4：英年早婚,https://vip.ffzy-online6.com/20231207/22697_c067d4cf/index.m3u8
+变形金刚：超能勇士崛起,https://vip.ffzyread1.com/20230711/15118_655c0059/index.m3u8
+满江红,https://vip.lz-cdn4.com/20230428/25694_3bf6ffb6/index.m3u8
+莫斯科行动,https://hnzy.bfvvs.com/play/PdyvvZze/index.m3u8
+好像也没那么热血沸腾,https://vip.ffzy-online6.com/20231213/23025_7dc990ce/index.m3u8
+流浪地球2,https://cdn10.yzzy-tv-cdn.com/20230124/23895_527527bc/index.m3u8
+两万种蜜蜂,https://s8.fsvod1.com/20230701/pQobQIY4/index.m3u8
+绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
+明日战记 粤语,h狄仁杰之通天玄案,https://yzzy.play-cdn21.com/20240224/38_93aa3142/index.m3u8
+古楼镇陵宫,https://yzzy1.play-cdn20.com/20240222/17377_1f60a61b/index.m3u8
+怒潮2023,https://yzzy1.play-cdn1.com/20240223/17891_745b5cf4/index.m3u8
+破战,https://yzzy1.play-cdn20.com/20240216/17014_96791511/index.m3u8
+破战,ttps://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
 
 颜值直播,#genre#
 书香、李李,http://kamiplayer.com:35455/huya/30384267
