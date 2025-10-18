@@ -283,16 +283,9 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 遍地狼烟,https://vip.ffzy-play6.com/20221021/435_27eb59a1/index.m3u8
 
 🎬最新电影,#genre#
-刺猬索尼克3,http://fj4kjx.lyyytv.cn/d/file/cf4eb1a858511f106f2bb46702209ca9/%E5%88%BA%E7%8C%AC%E7%B4%A2%E5%B0%BC%E5%85%8B3_4k.mp4
-江湖通缉令,http://fj4kjx.lyyytv.cn/d/file/13b448a8831eb704a866a479e6a00d3b/%E6%B1%9F%E6%B9%96%E9%80%9A%E7%BC%89%E4%BB%A44K.mp4
-射雕英雄传之侠之大者,http://fj4kjx.lyyytv.cn/d/file/54bc07c824b0e023231cb805b2edbcd0/%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%EF%BC%9A%E4%BE%A0%E4%B9%8B%E5%A4%A7%E8%80%854K.mp4
-甜蜜之家-重生,http://fj4kjx.lyyytv.cn/d/file/cfbb6f1be0a3595253233df18c5822dc/%E7%94%9C%E8%9C%9C%E4%B9%8B%E5%AE%B6%EF%BC%9A%E9%87%8D%E7%94%9F.mp4
-4分44秒,http://fj4kjx.lyyytv.cn/d/file/d5919a1310731bd167b4f5c901df85bc/4%E5%88%8644%E7%A7%92.mp4
-“骗骗”喜欢你,https://m3u8.hmrvideo.com/play/1578d38b92354a74ae67e1a041bef494.m3u8
 误杀3,https://vip.ffzy-video.com/20250403/15219_09b35ad9/index.m3u8
 九州千秋令,https://vip.ffzy-video.com/20250307/13536_a3d29241/index.m3u8
 阿诺拉,https://vip.ffzy-video.com/20241218/8707_81baadac/index.m3u8
-哪吒之魔童降世,https://m3u8.hmrvideo.com/play/6b984219fe874f68b639f752b3c7b635.m3u8
 无痛凯恩,https://vip.ffzy-video.com/20250409/15667_e584bd19/index.m3u8
 冰雪奇缘2,https://vip.ffzy-play2.com/20230102/19118_4ba6a740/index.m3u8
 暗潮汹涌之惊魂12小时,https://vip.ffzy-video.com/20250408/15532_1ef619e8/index.m3u8
@@ -304,7 +297,6 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 狼少女,https://vip.ffzy-video.com/20250403/15243_2e310f29/index.m3u8
 误判,https://vip.ffzy-video.com/20250131/11338_eb0ad44c/index.m3u8
 密室逃生,https://vip.ffzy-video.com/20250326/14673_5f353180/index.m3u8
-乔妍的心事,https://m3u8.hmrvideo.com/play/f4b83ad9e0024a23b53e8f2b04cd1678.m3u8
 二龙湖水怪,https://vip.ffzy-video.com/20250327/14723_c80728aa/index.m3u8
 焚城,https://vip.ffzy-video.com/20250328/14809_4042d0c6/index.m3u8
 大画王,https://vip.ffzy-video.com/20250321/14390_8a1df180/index.m3u8
@@ -315,8 +307,6 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 奇怪的记忆,https://vip.ffzy-video.com/20250315/13990_04288682/index.m3u8
 苍月,https://vip.ffzy-video.com/20250303/13240_23d6c296/index.m3u8
 临界点,https://svipsvip.ffzy-online5.com/20250316/39340_1b9d7ffc/index.m3u8
-阿凡达,https://m3u8.hmrvideo.com/play/9f05b35711ec4e2191ab1ce157387d72.m3u8
-阿凡达2,https://m3u8.hmrvideo.com/play/b2a7818dcc2b46e8a4b3c15f091eba23.m3u8
 猩球崛起,https://vip.ffzy-play7.com/20221229/10364_613713b0/index.m3u8
 猩球崛起2,https://vip.ffzy-play7.com/20230219/15328_66269bd7/index.m3u8
 猩球崛起3,https://vip.ffzy-play7.com/20230219/15329_36fd14a4/index.m3u8
@@ -328,17 +318,9 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 杀破狼,https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/index.m3u8
 杀破狼2,https://vip.ffzy-play7.com/20221124/6746_246ce5ec/index.m3u8
 杀破狼·贪狼,https://vip.ffzy-play.com/20221018/1978_1c69325c/index.m3u8
-特殊身份,https://m3u8.hmrvideo.com/play/65e37262fde14573b7e3bcf028b5bea8.m3u8
-一个人的武林,https://m3u8.hmrvideo.com/play/ac3c865f56374eb1b3b6c2f470758842.m3u8
-喜爱夜蒲,https://m3u8.hmrvideo.com/play/99bbf320bb9c48ceb465246fb72ffc00.m3u8
-喜爱夜蒲2,https://m3u8.hmrvideo.com/play/ce1de5d254984d1d923e8250764a1700.m3u8
-喜爱夜蒲3,https://m3u8.hmrvideo.com/play/1e314bd7114f4d9cbf2623a91ad34a37.m3u8
 色即是空,https://vip.ffzy-play8.com/20221101/256_79746e05/index.m3u8
 色即是空2,https://vip.ffzy-play8.com/20221101/257_4527e538/index.m3u8
 保你平安,https://super.ffzy-online6.com/20230511/11670_7153c139/index.m3u8
-侏罗纪世界,https://m3u8.hmrvideo.com/play/e4d8b2e03fe747a5b5189c7e827ef241.m3u8
-侏罗纪世界2,https://m3u8.hmrvideo.com/play/f1f65f25ca3f49abb2b02428aa5f82e0.m3u8
-侏罗纪世界3,https://m3u8.hmrvideo.com/play/1d501eedba2c470fb3c17eb5e0e58b0e.m3u8
 美国队长1,https://vip.ffzy-online.com/20221216/35315_b62b0d64/index.m3u8
 美国队长2,https://vip.ffzy-online.com/20221216/35194_712a42d6/index.m3u8
 美国队长3,https://vip.ffzy-online.com/20221216/35172_a904dfdd/index.m3u8
@@ -7220,4 +7202,3 @@ QM丨云兮-小仙女,http://kamiplayer.com:35455/huya/712409
 Miu-初彤【纯御】,http://kamiplayer.com:35455/huya/691265
 集梦贝贝【秋徒】【铁妹】,http://kamiplayer.com:35455/huya/613607
 正恒丶小纯,http://kamiplayer.com:35455/huya/20980709
-
