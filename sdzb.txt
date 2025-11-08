@@ -446,6 +446,7 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 新紅樓夢10,https://play.hhuus.com/play/YaOLJVpb/index.m3u8
 
 斗鱼💖主播,#genre#
+【斗鱼】小悦光,http://kamiplayer.com:35455/douyu/5222
 【斗鱼】蜡笔小莎,http://kamiplayer.com:35455/douyu/11968334
 【斗鱼】Minana呀,http://kamiplayer.com:35455/douyu/5551871
 【斗鱼】七哥张琪格,http://kamiplayer.com:35455/douyu/700
@@ -1126,3 +1127,4 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 矫正0-15,https://videotx-platform.cdn.huya.com/leaf/1048585/59a91b252545dcc3e53b1e831b45d090/86179711/52293733_7967f748c9e80e6a4be30c8d811e4f1b_264_1080_1_max.m3u8?hyvid=1045428864&hyauid=1239535418978&hyroomid=1239535418978&hyratio=4000&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA0NTQyODg2NA%3D%3D&&bitrate=1487&client=110&definition=yuanhua&pid=1239535418978&scene=vod&vid=1045428864&u=0&t=100&sv=2510311912&sdk_sid=undefined&a_block=0&sf=1&dMod=mseh-153
 矫正0-16,https://al-vod.cdn.huya.com/leaf/1048585/59a91b252545dcc3e53b1e831b45d090/85347031/51126889_5abb73d813aa269accb4fd62fac5e1fb_264_1080_1_max.m3u8?hyvid=1042509142&hyauid=1239535418978&hyroomid=1239535418978&hyratio=4000&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA0MjUwOTE0Mg%3D%3D&&bitrate=1591&client=110&definition=yuanhua&pid=1239535418978&scene=vod&vid=1042509142&u=0&t=100&sv=2510311912&sdk_sid=undefined&a_block=0&sf=1&dMod=mseh-153
 矫正0-17,https://al-vod.cdn.huya.com/leaf/1048585/59a91b252545dcc3e53b1e831b45d090/89187785/56721336_07bb5491eaa5a2d3a746ce0784c2dff9_264_1080_1_max.m3u8?hyvid=1056139896&hyauid=1239535418978&hyroomid=1239535418978&hyratio=4000&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA1NjEzOTg5Ng%3D%3D&&bitrate=1527&client=110&definition=yuanhua&pid=1239535418978&scene=vod&vid=1056139896&u=0&t=100&sv=2510311912&sdk_sid=undefined&a_block=0&sf=1&dMod=mseh-153
+
