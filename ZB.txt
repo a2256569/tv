@@ -38,7 +38,7 @@
 辽宁影视剧,http://124.94.193.102:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育,http://124.94.193.102:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁生活,http://124.94.193.102:9902/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁教育青少,http://124.94.193.102:9902/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁-教育青少,http://124.94.193.102:9902/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁北方,http://124.94.193.102:9902/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁公共,http://124.94.193.102:9902/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁经济,http://124.94.193.102:9902/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -67,3 +67,4 @@ CCTV13-新闻,http://124.94.193.102:9902/tsfile/live/0013_1.m3u8?key=txiptv&play
 CCTV14-少儿,http://124.94.193.102:9902/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15-音乐,http://124.94.193.102:9902/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://124.94.193.102:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
