@@ -10,7 +10,6 @@ CCTV8-电视剧,http://175.162.218.238:9901/tsfile/live/0008_1.m3u8?key=txiptv&p
 CCTV9-纪录,http://175.162.218.238:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://175.162.218.238:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11-戏曲,http://175.162.218.238:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://175.162.218.238:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://175.162.218.238:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿频道,http://175.162.218.238:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15音乐频道,http://175.162.218.238:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
