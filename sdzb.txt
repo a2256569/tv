@@ -1116,10 +1116,10 @@ CGTN,http://218.56.123.244:3322/tsfile/live/1001_1.m3u8
 【虎牙】AH丶辛蒂cc,http://kamiplayer.com:35455/huya/920518
 
 瑜伽💖矫正,#genre#
-你的瑜伽女孩,http://189.1.241.5:35455/douyu/10205199
-美女带你做瑜伽,http://189.1.241.5:35455/douyu/10217953
-韩国小姐姐嘎嘣脆,http://189.1.241.5:35455/douyu/9974197
-周六野Zoey,http://189.1.241.5:35455/douyu/8912150
+你的瑜伽女孩,http://39.104.53.74:35455/douyu/10205199
+美女带你做瑜伽,http://39.104.53.74:35455/douyu/10217953
+韩国小姐姐嘎嘣脆,http://39.104.53.74:35455/douyu/9974197
+周六野Zoey,http://39.104.53.74:35455/douyu/8912150
 
 
 矫正0-1,https://al-vod.cdn.huya.com/leaf/1048585/59a91b252545dcc3e53b1e831b45d090/87009291/53498878_00755d95afdac8589518f94f8ae01b25_264_1080_1_max.m3u8?hyvid=1048444856&hyauid=1239535418978&hyroomid=1239535418978&hyratio=4000&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA0ODQ0NDg1Ng%3D%3D&&bitrate=2448&client=110&definition=yuanhua&pid=1239535418978&scene=vod&vid=1048444856&u=0&t=100&sv=2510311912&sdk_sid=undefined&a_block=0&sf=1&dMod=mseh-153
