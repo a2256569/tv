@@ -8,13 +8,3 @@
 辽宁生活,https://yd.zb.kklive.top/PLTV/11/224/3221227319/index.m3u8
 辽宁体育,https://yd.zb.kklive.top/PLTV/11/224/3221227334/index.m3u8
 辽宁影视,https://yd.zb.kklive.top/PLTV/11/224/3221227331/index.m3u8
-睛彩竞技,https://yd.zb.kklive.top/PLTV/11/224/3221227417/index.m3u8
-睛彩篮球,https://yd.zb.kklive.top/PLTV/11/224/3221227478/index.m3u8
-睛彩青少,https://yd.zb.kklive.top/PLTV/11/224/3221227420/index.m3u8
-睛彩广场舞,https://yd.zb.kklive.top/PLTV/11/224/3221227423/index.m3u8
-CHC影迷电影,https://yd.zb.kklive.top/PLTV/11/224/3221227490/index.m3u8
-CHC家庭影院,https://yd.zb.kklive.top/PLTV/11/224/3221227368/index.m3u8
-CHC动作电影,https://yd.zb.kklive.top/PLTV/11/224/3221227432/index.m3u8
-风云足球,https://yd.zb.kklive.top/PLTV/11/224/3221227377/index.m3u8
-风云剧场,https://yd.zb.kklive.top/PLTV/11/224/3221227447/index.m3u8
-风云音乐,https://yd.zb.kklive.top/PLTV/11/224/3221227502/index.m3u8
