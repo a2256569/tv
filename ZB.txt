@@ -67,18 +67,17 @@ CCTV13-新闻,http://panabit.yunjifei.top:3338/tsfile/live/0019_1.m3u8
 CCTV14-少儿,http://panabit.yunjifei.top:3338/tsfile/live/0019_2.m3u8
 CCTV15-音乐,http://panabit.yunjifei.top:3338/tsfile/live/0015_1.m3u8
 CCTV17,http://panabit.yunjifei.top:3338/tsfile/live/1012_1.m3u8
-
 CGTN,http://panabit.yunjifei.top:3338/tsfile/live/1080_1.m3u8
 发现之旅,http://panabit.yunjifei.top:3338/tsfile/live/1083_1.m3u8
 
 省内,#genre#
 辽宁北方,http://panabit.yunjifei.top:3338/tsfile/live/0005_1.m3u8
 辽宁公共,http://panabit.yunjifei.top:3338/tsfile/live/0006_1.m3u8
-辽宁教育青少,http://panabit.yunjifei.top:3338/tsfile/live/0008_1.m3u8
-辽宁经济,http://panabit.yunjifei.top:3338/tsfile/live/0137_1.m3u8
-辽宁都市,http://panabit.yunjifei.top:3338/tsfile/live/1021_1.m3u8
+辽宁-教育青少,http://panabit.yunjifei.top:3338/tsfile/live/0008_1.m3u8
+辽宁-经济,http://panabit.yunjifei.top:3338/tsfile/live/0137_1.m3u8
+辽宁-都市,http://panabit.yunjifei.top:3338/tsfile/live/1021_1.m3u8
 辽宁影视,http://panabit.yunjifei.top:3338/tsfile/live/1024_1.m3u8
-辽宁生活,http://panabit.yunjifei.top:3338/tsfile/live/1022_1.m3u8
+辽宁-生活,http://panabit.yunjifei.top:3338/tsfile/live/1022_1.m3u8
 辽宁体育,http://panabit.yunjifei.top:3338/tsfile/live/1023_1.m3u8
 沈阳新闻综合,http://panabit.yunjifei.top:3338/tsfile/live/1019_1.m3u8
 北方导视,http://panabit.yunjifei.top:3338/tsfile/live/1059_1.m3u8
