@@ -298,12 +298,12 @@ CCTV17,http://hunhhyd.sohu.blog:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive
 辽宁生活,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnsh
 辽宁北方,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnbf
 
-天津新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1
-天津文艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv2
-天津影视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv3
-天津都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-天津教育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv6
+吉林都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlds
+吉林生活,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlsh
+广西影视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxys
+广西综艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxzy
+广西都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxds
+广西国际,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj
 
 广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
@@ -316,6 +316,11 @@ CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
 周润发轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf
 周星驰轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc
 林正英轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lblzy
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
