@@ -20,7 +20,7 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 
-
+YOUTUDE,#genre#
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS財經台,https://www.youtube.com/watch?v=TMjUNWnNYmE
 三立iNEWS財經,https://www.youtube.com/watch?v=pF507BLtbqU
