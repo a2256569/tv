@@ -8,7 +8,7 @@
 吉林教育,http://139.214.182.224:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://139.214.182.224:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 松原,http://139.214.182.224:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-松原公共,http://139.214.182.224:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+松原生活,http://139.214.182.224:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://139.214.182.224:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://139.214.182.224:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://139.214.182.224:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
