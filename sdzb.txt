@@ -1,17 +1,12 @@
 湖北组播源,#genre#
-湖北公共新闻,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.40:9880
 湖北经视,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.41:9886
 湖北综合,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.42:9892
 湖北垄上,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.43:9898
 湖北影视,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.204:10866
-湖北生活,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.205:10872
 湖北教育,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.206:10878
 武汉新闻综合,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.145:10506
 武汉电视剧,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.146:10512
 武汉科技生活,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.251:11148
-武汉经济,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.35:9850
-武汉文体,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.147:10518
-武汉外语,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.36:9856
 武汉教育,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.60:9994
 CHC-高清电影,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.241:11088
 CHC-动作电影,http://xuanxindong.mycloudnas.com:10001/rtp/239.69.1.242:11094
