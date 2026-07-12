@@ -34,9 +34,9 @@ CCTV13-新闻,http://39.150.102.131:19901/tsfile/live/0013_1.m3u8
 CCTV14-少儿,http://39.150.102.131:19901/tsfile/live/0014_1.m3u8
 CCTV15-音乐,http://39.150.102.131:19901/tsfile/live/0015_1.m3u8
 CCTV17-农业农村,http://39.150.102.131:19901/tsfile/live/0007_2.m3u8
-中国教育-1,http://39.150.102.131:19901/tsfile/live/0018_3.m3u8
-中国教育-2,http://39.150.102.131:19901/tsfile/live/0017_7.m3u8
-中国教育-4,http://39.150.102.131:19901/tsfile/live/0017_8.m3u8
+CETV1,http://39.150.102.131:19901/tsfile/live/0018_3.m3u8
+CETV2,http://39.150.102.131:19901/tsfile/live/0017_7.m3u8
+CETV4,http://39.150.102.131:19901/tsfile/live/0017_8.m3u8
 
 河南卫视,http://39.150.102.131:19901/tsfile/live/0139_1.m3u8
 湖南卫视,http://39.150.102.131:19901/tsfile/live/0128_1.m3u8
