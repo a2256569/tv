@@ -112,8 +112,8 @@ IPTV8+,http://39.150.102.131:19901/tsfile/live/0017_14.m3u8
 北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
 重温经典,http://107.150.60.122/live/cwjd.m3u8
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
-CHC影迷电影http://107.150.60.122/live/chchd.m3u8
-CHC动作电影http://107.150.60.122/live/chcdz.m3u8
+CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
+CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
